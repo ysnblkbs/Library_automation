@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378071238336",
+    "project_id": "libraryautomation-3532b",
+    "storage_bucket": "libraryautomation-3532b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378071238336:android:034bd71360010a16f10f25",
+        "android_client_info": {
+          "package_name": "com.example.odevdeneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsN6ux-qPnCcfplsGgts4WWcNIuy7cIKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
